@@ -1,3 +1,5 @@
+![Kurs Logo](python-stats-logo.png)
+
 # Kurs: Statistik und Datenanalyse mit Python
 ## Einführung in die Module NumPy, Pandas, Matplotlib und SciPy
 
