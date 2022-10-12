@@ -7,6 +7,9 @@ Die Programmiersprache Python hat sich im letzten Jahrzehnt zum meistgenutzten u
 
 In diesem Kurs lernen wir nach einer sehr kurzen Einführung in Python die wichtigsten Module für das Arbeiten mit Daten sowie deren Visualisierung und statistischer Auswertung kennen. Hier stehen vor allem die vier Module NumPy, Pandas, Matplotlib und SciPy im Vordergrund.
 
+**Was sollten Sie an Vorraussetzungen für den Kurs mitbringen?**
+Dies ist keine Einführung in die Statistik! Sie sollten also über ein gewisses Wissen über einfachste statistische Konzepte verfügen. Gut wäre es sicherlich auch, wenn Sie schon einmal programmiert haben, oder sich in einer anderen Programmiersprache auskennen, die einen numerischen Zweck hat, wie z.B. Matlab, R, Julia o.ä.
+
 ## Nötige Vorbereitungen
 
 Wir wollen in diesem Kurs mit der Python-Distribution [*Anaconda*](https://de.wikipedia.org/wiki/Anaconda_(Python-Distribution)) und [*Jupyter-Notebooks*](https://de.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook) arbeiten. Nach wie vor ist es nicht trivial Python zu installieren. Anaconda hilft bei dieser Hürde und installiert dazu noch alle wichtigen Pakete im oben genannten Python Science-Stack. Weitere Pakete, die wir im Kurs brauchen, lassen sich dann leicht über das Kommandozeilen Programm `conda` nachinstallieren. Mit Jupyter-Notebooks lässt sich sehr gut "explorativ" arbeiten und der Code leicht mit anderen teilen. Auch dieser Kurs baut auf Jupyter-Notebooks auf (--> Dateien mit der Endung ".ipynb").
